@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POLICE_STATION", "POLICE_STATION\POLICE_STATION.csproj", "{B4D4A84B-EE37-4F68-9097-B64C321F1CDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{81242A41-D079-4200-A858-5723656056EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D4A84B-EE37-4F68-9097-B64C321F1CDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D4A84B-EE37-4F68-9097-B64C321F1CDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D4A84B-EE37-4F68-9097-B64C321F1CDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D4A84B-EE37-4F68-9097-B64C321F1CDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81242A41-D079-4200-A858-5723656056EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81242A41-D079-4200-A858-5723656056EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81242A41-D079-4200-A858-5723656056EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81242A41-D079-4200-A858-5723656056EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
